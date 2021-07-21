@@ -2,8 +2,8 @@
 ###### tags `Raspberry Pi` `Node.js`
 本專案利用**Node.js**在樹梅派上進行開發
 
-請事先下載`momoent`及`modbus-serial`兩個模組<br>
-momoent : https://www.npmjs.com/package/moment<br>
+請事先下載`moment`及`modbus-serial`兩個模組<br>
+moment : https://www.npmjs.com/package/moment<br>
 modbus-serial : https://www.npmjs.com/package/modbus-serial<br>
 
 可使用Modbus Slave進行測試
