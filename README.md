@@ -1,4 +1,4 @@
-# -Raspberry-Pi-modbusTCP-client
+# Raspberry-Pi-modbusTCP-client
 本專案利用**Node.js**在樹梅派上進行開發
 
 請事先下載`momoent`及`modbus-serial`兩個模組<br>
